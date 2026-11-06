@@ -1,7 +1,26 @@
-.venv/
-venv/
+# Python
 __pycache__/
 *.py[cod]
+.venv/
+venv/
 .env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Temporary execution files
+outputs/*_executed.ipynb
+
+# Database
 data/instamart.db
+
+# Generated state files
 state/*.json
+
+# Jupyter checkpoints in all folders
+**/.ipynb_checkpoints/
