@@ -65,6 +65,20 @@ The Python files in `src/` are lightweight entry points that execute the preserv
 
 ## SQL
 
+## SQL Queries — Part A
+
+The project includes seven SQL queries covering:
+
+1. Customers with qualifying completed spend
+2. Revenue by city and product category
+3. Products priced above average
+4. Customers without completed orders
+5. Customers spending above the customer average
+6. Customer spending rankings within each city using window functions
+7. Daily revenue and cumulative running totals
+
+**SQL source file:** [View all seven SQL queries](sql/queries.sql)
+
 The seven original Part A analytical SQL queries are available in `sql/queries.sql`. They use the `customers`, `products`, and `orders` SQLite tables.
 
 ## Libraries
