@@ -180,7 +180,7 @@ C0184,42,4,3626.6000000000004,0,Occasional Customers,False
 C0185,9,3,2166.7,0,Occasional Customers,False
 C0186,46,3,2070.8,0,Occasional Customers,False
 C0187,26,14,3207.8,2,Frequent Loyal Customers,False
-C0188,43,6,6529.4,1,Premium High-Spending Customers,True
+C0188,43,7,6888.200000000001,1,Premium High-Spending Customers,True
 C0189,19,3,508.8,0,Occasional Customers,False
 C0190,0,24,4489.3,2,Frequent Loyal Customers,False
 C0191,4,9,2052.95,0,Occasional Customers,False
@@ -286,7 +286,7 @@ C0290,3,24,4178.2,2,Frequent Loyal Customers,False
 C0291,22,11,13742.6,1,Premium High-Spending Customers,True
 C0292,64,3,1012.0,0,Occasional Customers,False
 C0293,0,17,3024.05,2,Frequent Loyal Customers,False
-C0294,22,21,3869.45,2,Frequent Loyal Customers,False
+C0294,22,22,4064.45,2,Frequent Loyal Customers,False
 C0295,61,2,100.19999999999999,0,Occasional Customers,False
 C0296,62,2,2767.1,0,Occasional Customers,False
 C0297,5,14,2289.0,2,Frequent Loyal Customers,False
@@ -620,7 +620,7 @@ C0632,4,3,517.0,0,Occasional Customers,False
 C0633,1,23,4300.1,2,Frequent Loyal Customers,False
 C0634,40,1,255.0,0,Occasional Customers,False
 C0635,76,4,292.2,3,Dormant At-Risk Customers,False
-C0636,2,18,2700.7,2,Frequent Loyal Customers,False
+C0636,2,19,2754.7,2,Frequent Loyal Customers,False
 C0637,86,1,80.75,3,Dormant At-Risk Customers,False
 C0638,3,18,2777.15,2,Frequent Loyal Customers,False
 C0639,29,19,4103.4,2,Frequent Loyal Customers,False
@@ -1070,7 +1070,7 @@ C1090,47,4,2701.1,0,Occasional Customers,False
 C1091,3,12,1237.2,0,Occasional Customers,False
 C1092,19,3,760.8,0,Occasional Customers,False
 C1093,8,19,3138.85,2,Frequent Loyal Customers,False
-C1094,9,3,1534.0,0,Occasional Customers,False
+C1094,9,4,3932.8,0,Occasional Customers,False
 C1095,0,26,4852.6,2,Frequent Loyal Customers,False
 C1096,5,23,4024.9,2,Frequent Loyal Customers,False
 C1097,132,1,379.05,3,Dormant At-Risk Customers,False
