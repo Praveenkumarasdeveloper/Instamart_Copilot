@@ -1,5 +1,3 @@
-Project directory: c:\Users\PRAVEEN_KUMAR\jupyter_notebook\Jupyter notebook\Masai_Code
-README exists: True
 # Instamart Copilot Project
 
 This repository contains the completed Instamart assignment (Parts A-D), its original Jupyter notebooks, datasets, SQLite database, mock LLM, SQL queries, and generated outputs.
